@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+title: =_= kans 博客-GitHub.io
+description: =_= kans 博客-GitHub.io
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+gems:
+  - jekyll-mentions
